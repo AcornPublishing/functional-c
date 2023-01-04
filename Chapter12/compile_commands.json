@@ -1,0 +1,17 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-o",
+            "out/write",
+            "write.cpp"
+        ],
+        "directory": "/home/alexb/work/bookCode/chapter12",
+        "file": "write.cpp"
+    }
+]

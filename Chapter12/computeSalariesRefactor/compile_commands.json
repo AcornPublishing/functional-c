@@ -1,0 +1,18 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "computeSalaries.h",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-o",
+            "out/computeSalariesTest",
+            "computeSalariesTest.cpp"
+        ],
+        "directory": "/home/alexb/work/bookCode/chapter12/computeSalariesRefactor",
+        "file": "computeSalariesTest.cpp"
+    }
+]

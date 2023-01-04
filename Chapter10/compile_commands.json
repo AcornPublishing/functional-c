@@ -1,0 +1,17 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-Wall",
+            "-Wextra",
+            "-Werror",
+            "-o",
+            "out/reactive",
+            "reactive.cpp"
+        ],
+        "directory": "/home/alexb/work/bookCode/chapter10",
+        "file": "reactive.cpp"
+    }
+]

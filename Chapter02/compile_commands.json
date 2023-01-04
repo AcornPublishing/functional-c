@@ -1,0 +1,14 @@
+[
+    {
+        "arguments": [
+            "c++",
+            "-c",
+            "-std=c++17",
+            "-o",
+            "out/sort",
+            "sort.cpp"
+        ],
+        "directory": "/home/alexb/work/bookCode/chapter2",
+        "file": "sort.cpp"
+    }
+]
